@@ -130,9 +130,6 @@ task-tracker-system/
 │   ├── 01_schema_creation.sql    # Создание структуры БД
 │   ├── 02_sample_data.sql        # Примеры данных
 │   └── 03_analytical_queries.sql # Аналитические запросы
-├── docs/
-│   └── ER-Diagram.png            # Диаграмма базы данных
-├── .gitignore                    # Исключаемые файлы
 ├── LICENSE                       # Лицензия MIT
 └── README.md                     # Этот файл
 ```
